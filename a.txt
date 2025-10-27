@@ -1,2 +1,2 @@
-User2 Modifies A.txt
-Second Line for A.txt
+User 2 modified Again
+This is second Line from User2
